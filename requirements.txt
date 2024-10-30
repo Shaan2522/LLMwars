@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+flask
+google.generativeai
+langchain-groq
+streamlit
